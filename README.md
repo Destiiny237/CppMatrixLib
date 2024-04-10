@@ -40,4 +40,5 @@ int main() {
   std::cout << "Определитель матрицы: " << det << std::endl;
 
   return 0;
-} ```
+}
+```
